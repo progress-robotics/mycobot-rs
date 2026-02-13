@@ -3,7 +3,8 @@
 [![Crates.io](https://img.shields.io/crates/v/mycobot-rs.svg)](https://crates.io/crates/mycobot-rs)
 [![Documentation](https://docs.rs/mycobot-rs/badge.svg)](https://docs.rs/mycobot-rs)
 [![License](https://img.shields.io/crates/l/mycobot-rs.svg)](LICENSE)
-[![Build](https://github.com/progress-robotics/mycobot-rs/actions/workflows/publish.yml/badge.svg)](https://github.com/progress-robotics/mycobot-rs/actions/workflows/publish.yml)
+[![Publish](https://github.com/progress-robotics/mycobot-rs/actions/workflows/publish.yml/badge.svg)](https://github.com/progress-robotics/mycobot-rs/actions/workflows/publish.yml)
+[![Build](https://github.com/progress-robotics/mycobot-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/progress-robotics/mycobot-rs/actions/workflows/rust.yml)
 
 A Rust implementation of the MyCobot communication protocol. This library provides a safe and idiomatic Rust interface for controlling Elephant Robotics' MyCobot arms.
 
