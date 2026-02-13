@@ -1,0 +1,17 @@
+[package]
+name = "mycobot-rs"
+version = "0.1.0"
+edition = "2024"
+description = "A Rust implementation of the MyCobot communication protocol"
+license = "GPL-3.0"
+repository = "https://github.com/progress-robotics/mycobot-rs.git"
+keywords = ["robotics", "mycobot", "serial", "control"]
+categories = ["science::robotics", "hardware-support"]
+
+[dependencies]
+serial2 = "0.2"
+log = "0.4"
+thiserror = "2.0.18"
+
+[dev-dependencies]
+env_logger = "0.11.9"
