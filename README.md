@@ -7,8 +7,8 @@
 [![Build](https://github.com/progress-robotics/mycobot-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/progress-robotics/mycobot-rs/actions/workflows/rust.yml)
 
 
-[!WARNING]  
-This crate is still under development, use at your own risk! Progress Robotics is not liable for any damages resulting from the use of this crate or any derivatives of it.
+>[!WARNING]
+>This crate is still under development, use at your own risk! Progress Robotics is not liable for any damages resulting from the use of this crate or any derivatives of it.
 
 A Rust implementation of the MyCobot communication protocol. This library provides a safe and idiomatic Rust interface for controlling Elephant Robotics' MyCobot arms.
 
